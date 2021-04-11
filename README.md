@@ -1,5 +1,4 @@
 # An Analysis of Various Green Energy Companies
-Module 2 of Data Analytics Bootcamp
 
 ## Scope
 The goal of this project was to take a spreadsheet containing data on various green energy companies' stock performances over the 2017 and 2018 calendar years and, using Microsoft Excel and VBA, take the large amount of data and produce an automated, reproduceable analysis. The analysis was in service of the client, Steve, who sought to help his parents create an investment portfolio based on green energy companies.
