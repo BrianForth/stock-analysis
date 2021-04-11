@@ -23,4 +23,4 @@ With the exceptions on Sunrun (NYSE: RUN) and TerraForm Power (NYSE: TERP), 2017
 
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
 
-Additionally, 9 of the 12 companies saw gains in 2017 and losses in 2018, with the previously mentioned Terraform Power seeing losses in both years,and Sunrun and ENphase (NYSE: ENPH) seeing gains both years. With the caveat of past performance not guaranteeing future performance, both Enphase and Sunrun had sizeable trade volumes and significant stock growth over the two years analyzed.
+Additionally, 9 of the 12 companies saw gains in 2017 and losses in 2018, with the previously mentioned Terraform Power seeing losses in both years,and Sunrun and Enphase (NYSE: ENPH) seeing gains both years. With the caveat of past performance not guaranteeing future performance, both Enphase and Sunrun had sizeable trade volumes and significant stock growth over the two years analyzed.
